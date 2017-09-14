@@ -1,3 +1,6 @@
+# courtesy of https://github.com/fg2it/
+
+
 # Grafana Crossbuild
 
 This directory contains `Dockerfile` and helper script to crossbuild Grafana for
